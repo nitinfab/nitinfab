@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nitin Sharma, a Full Stack Web developer
 - 👀 I’m interested in learning and then implementing things.
-- 🖥️ I have currently worked with a Startup.
-- 💞️ I’m looking to work on Startup or with top companies.
 - 📫 You can reach me via LinkedIn - www.linkedin.com/in/nitinfab
 
 <!---
